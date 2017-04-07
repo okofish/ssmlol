@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import argparse
 from eyed3 import mp3
 
